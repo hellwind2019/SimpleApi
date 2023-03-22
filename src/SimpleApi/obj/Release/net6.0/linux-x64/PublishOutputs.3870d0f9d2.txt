@@ -1,0 +1,10 @@
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\SimpleApi.deps.json
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\SimpleApi.runtimeconfig.json
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\SimpleApi.pdb
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.Json.dll
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\Telegram.Bot.dll
+C:\Users\Dania\RiderProjects\SimpleApi\SimpleApi\src\SimpleApi\bin\Release\net6.0\publish\SimpleApi.dll
